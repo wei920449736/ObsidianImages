@@ -1,0 +1,2 @@
+# ObsidianImages
+用于存放自己Obsidian笔记中图片的图床仓库
